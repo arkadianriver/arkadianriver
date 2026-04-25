@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 30+ year tech writer and software developer. Ex-IBMer. Curious about data engineering.
+30+ year tech writer and software developer. Ex-IBMer. Curious about data engineering.
 
 ---
 
