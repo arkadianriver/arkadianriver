@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkadianriver&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="185"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadianriver&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=HTML&custom_title=Most%20Used%20Languages%20excl.%20HTML" alt="Top Languages excluding HTML" height="185"/>
+  <img src="https://github-readme-stats-three-beryl-38.vercel.app/api?username=arkadianriver&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="185"/>
+  <img src="https://github-readme-stats-three-beryl-38.vercel.app/api/top-langs/?username=arkadianriver&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=HTML&custom_title=Most%20Used%20Languages%20excl.%20HTML" alt="Top Languages excluding HTML" height="185"/>
 </p>
 
 ---
